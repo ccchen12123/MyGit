@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.d1 {
+    background: url(./蓝头.jpg);
+}
+.d2 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.s1 {
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.u1 {
+    margin-left: 65%;
+    display: inline-block;
+}
+a.sub1 {
+    border: 1px solid;
+    border-color: white;
+    border-radius: 5px;
+    line-height: 32px;
+    padding: 10px 16px;
+    cursor: pointer;
+    /*辅助样式*/
+    color: white;
+    background-color: none;
+    text-decoration: none;
+}
+.sub1:hover {
+    background-color: rgb(121, 227, 233);
+}
+.d3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.yun {
+    margin-top: 80px;
+    font-size: 60px;
+    font-weight: 1000;
+    color: white;
+    text-align: center;
+}
+.p1 {
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.u2 {
+    margin-top: 5%;
+    text-align: center;
+}
+a.ma1 {
+    color: rgb(63, 117, 233);
+    font-size: 30px;
+    background-color: white;
+    text-align: center;
+    padding: 14px 26px;
+    text-decoration: none;
+    cursor: pointer;
+}
+a.ma1:hover {
+    background-color: skyblue
+}
+.d4 {
+    margin-top: 5%;
+    background-color: rgb(250, 244, 241);
+
+}
+.nan {
+    width: auto; /* 盒子也要自动缩放 */
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    background-size: cover;
+}
+.nan1 {
+    margin-top: 7%;
+    margin-left: 5%; /* 居中 */
+    width: auto; /* 宽度自动调整 */
+    height: auto; /* 高度自动调整 */
+    max-width: 100%; /* 最大宽度为父元素的100% */
+}
+.gaoji {
+    margin-top: 3%;
+    margin-left: 5%;
+    font-size: 50px;
+    font-weight: 1000;
+}
+.meiren {
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    font-size: 24px;
+}
+a.liao {
+    margin-top: 2%;
+    margin-left: 5%;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 24px;
+    color: rgba(72, 74, 74, 0.801);
+    padding: 8px 42%;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(250, 244, 241);
+}
+.liao:hover {
+    background-color: aliceblue;
+}
+.d5 {
+    max-width: 100%;
+    max-height: 100%;
+    background-color: rgb(250, 244, 241);
+}
+.nv {
+    margin-top: 7%;
+    margin-left: 5%; /* 居中 */
+    width: auto; /* 宽度自动调整 */
+    height: auto; /* 高度自动调整 */
+    max-width: 100%; /* 最大宽度为父元素的100% */
+}
+.d6 {
+    background-color: rgb(250, 244, 241);
+}
+.d7 {
+    padding: 2% 0%;
+    background-color: rgb(250, 244, 241);
+}
+.p2 {
+    margin-left: 5%;
+    font-size: 40px;
+    font-weight: 1000;
+    background-color: rgb(250, 244, 241);
+}
+hr {
+    border: none;
+    height: 1px;
+    background-color: rgb(203, 195, 195);
+}
+.d8 {
+    background-color: white;
+    display: inline-block;
+}
+.feng {
+    display: inline-block;
+    margin: 55px;
+}
+.hh2 {
+    font-size: 30px;
+    font-weight: 1000;
+}
+.pp2 {
+    font-size: 15px;
+    font-weight: 500;
+}
+a.ma2 {
+    color: rgb(63, 117, 233);
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
