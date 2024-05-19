@@ -1,0 +1,13 @@
+package com.ccchen;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringChenApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringChenApplication.class, args);
+    }
+
+}
